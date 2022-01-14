@@ -1,2 +1,2 @@
 # snakegame_python
-This is a snake game made with oython
+This is a snake game made with python
